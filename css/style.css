@@ -528,7 +528,7 @@ ul li.active a{
 .inner_row{
     float: left;
     margin-top: 33px;
-    padding: 0px 54px;
+    padding: 0px 52px;
 }
 
 .common_ul ul{
@@ -549,7 +549,6 @@ ul li.active a{
     font-size: 12px;
     margin-bottom: 22px;
 }
-
 
 .common_ul ul li{
     list-style: none;
@@ -576,7 +575,6 @@ ul li.active a{
 
 .social_media{
     float: left;
- 
 }
 
 .social_media a{
@@ -595,6 +593,4 @@ ul li.active a{
     text-decoration: none;
     color: cornflowerblue;
 }
-
-
 /*Sixth Section Part End*/
